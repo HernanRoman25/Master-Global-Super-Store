@@ -70,4 +70,7 @@ El proceso completo incluyó:
 
 Se sugiere continuar trabajando en la **optimización de costos** y en la mejora de la **eficiencia operativa** para maximizar la rentabilidad en el futuro.
 
+
 ## 📂 Estructura del Proyecto
+
+├── 🏠 Portada ├── 📈 Reporte de Ventas ├── 💰 Reporte de Costos ├── 📊 Reporte de Ganancias ├── 🧾 Resumen Ejecutivo └── 📚 Guía
